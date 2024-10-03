@@ -1,0 +1,18 @@
+.Message-items {
+    margin: 20px ; /* Mellanrum mellan meddelanden */
+    padding: 10px;
+    background-image: linear-gradient(to bottom, #ff0000, #d61219, #ad1d22, #832225, #5a2324, #5a2324, #5a2324, #5a2324, #832225, #ad1d22, #d61219, #ff0000);  
+    display: block;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  }
+
+  .Message-items button {
+    margin-left: 15px;
+    margin-top: 10px; /* Mellanrum överst */
+    cursor: pointer; /* Ändrar muspekaren till en hand */
+  }
+
+.strong {
+    color: white;
+}

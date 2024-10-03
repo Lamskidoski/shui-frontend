@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none; /* Tar bort punktlistan */
+    padding: 0; /* Tar bort standardpadding */
+  }
+  
+  li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc; /* Lägger till en nedre gräns */
+    margin-bottom: 10px; /* Lägger till avstånd mellan meddelanden */
+  }
+  
+  strong {
+    color: #333; /* Färg för användarnamn */
+  }
+  

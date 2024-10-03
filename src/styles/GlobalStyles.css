@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif; /* Standard font */
+    margin: 0;
+    padding: 20px;
+    background-image: linear-gradient(to bottom, #0273ee, #005ab2, #004078, #002642, #020911);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h2 {
+    color: #333;
+    padding-bottom: 100px;
+  }
+
+  h1, h2 {
+    text-align: center;
+  }
+
+  .form {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+  }
+  .username {
+    width: 200px;
+  }
+  .text {
+    width: 200px;
+  }
